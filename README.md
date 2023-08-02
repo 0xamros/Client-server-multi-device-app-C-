@@ -51,11 +51,20 @@ git clone https://github.com/0xamros/Client-server-multi-device-app-C-.git
 Screenshots
 -----------
 
+![Server](https://github.com/0xamros/Client-server-multi-device-app-C-/blob/main/IMG/server.png)
+
 _Figure 1: Server application displaying received data._
+
+
+![Windows Client](https://raw.githubusercontent.com/0xamros/Client-server-multi-device-app-C-/main/IMG/client-win32.png)
 
 _Figure 2: Windows client application._
 
-_Figure 3: Android client application._
+
+![Android Client](https://github.com/0xamros/Client-server-multi-device-app-C-/blob/main/IMG/test.png)
+
+_Figure 3: Android client with server applications._
+
 
 Future Enhancements
 -------------------
