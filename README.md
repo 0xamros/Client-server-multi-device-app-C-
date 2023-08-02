@@ -1,7 +1,3 @@
-> generate readme.md for github to describe my server-client app using c++ language , the client write server ip then press connect button, once connected write name then press "A" or "B" or "C" button ,if you press "A" button, it send (date + time + name + "A" to server, and server display these data at textboxlist , this app is desktop app for windows with support to multiple clients platforms like : windows and android, i used embarcadero app, before running be sure all components at the same network
-> 
-> 4 / 4
-
 Server-Client Application README
 ================================
 
@@ -34,7 +30,7 @@ How to Use
 bash
 
 ```bash
-git clone https://github.com/your-username/server-client-app.git
+git clone https://github.com/0xamros/Client-server-multi-device-app-C-.git
 ```
 
 2.  Open the project in Embarcadero C++ Builder.
@@ -77,5 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to fork and contribute to this project. If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request. Your contributions are highly appreciated!
-
-2 / 2
