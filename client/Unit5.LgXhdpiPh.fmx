@@ -1,0 +1,40 @@
+inherited Form5_LgXhdpiPh: TForm5_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Label1: TLabel
+    Position.X = 152.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Label2: TLabel
+    Position.X = 64.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Edit1: TEdit
+    Position.X = 128.000000000000000000
+  end
+  inherited Edit2: TEdit
+    Position.X = 88.000000000000000000
+  end
+  inherited Button1: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 24.000000000000000000
+  end
+  inherited Button2: TButton
+    Position.X = 136.000000000000000000
+    Position.Y = 288.000000000000000000
+    Size.Width = 121.000000000000000000
+  end
+  inherited Button3: TButton
+    Position.X = 136.000000000000000000
+    Position.Y = 384.000000000000000000
+    Size.Width = 121.000000000000000000
+  end
+  inherited Button4: TButton
+    Position.X = 136.000000000000000000
+    Position.Y = 480.000000000000000000
+    Size.Width = 121.000000000000000000
+  end
+end
