@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/03 01:10:02.000.795,=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/06/03 01:10:02.000.647,=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2021/07/15 17:08:16.000.266,=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2021/07/15 17:08:16.000.777,=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/07/15 17:23:42.000.882,C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.fmx=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\server\Unit5.fmx</Transaction>
+    <Transaction>2021/07/15 17:23:42.000.882,C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.h=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\server\Unit5.h</Transaction>
+    <Transaction>2021/07/15 17:23:42.000.882,C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.cpp=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\server\Unit5.cpp</Transaction>
+    <Transaction>2021/07/15 17:23:47.000.155,C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\server\Project4PCH1.h</Transaction>
+    <Transaction>2021/07/15 17:23:51.000.552,C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\Project4.cbproj=C:\Users\amros\OneDrive\Documents\Embarcadero\Studio\Projects\server\Project4.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
